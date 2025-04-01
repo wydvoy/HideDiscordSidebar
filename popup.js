@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
   
   function updateStatus(sidebarHidden) {
-    statusText.textContent = sidebarHidden ? "Status: Sidebar Hidden" : "Status: Sidebar Visible";
+    statusText.textContent = sidebarHidden ? "Status: Control Buttons Enabled" : "Status: Control Buttons Disabled";
     statusText.style.color = sidebarHidden ? '#43b581' : '#b9bbbe';
   }
 });

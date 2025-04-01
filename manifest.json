@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Discord Sidebar Toggle",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Simple extension to hide and show the sidebar in Discord Web New UI - @wydvoy",
   "permissions": ["activeTab", "storage"],
   "host_permissions": ["https://*.discord.com/*"],
