@@ -3,4 +3,7 @@
 - Enable Developer Mode in Extensions
 - Load Unpacked Extension, select the Folder.
 
-![image](https://github.com/user-attachments/assets/cfa553fe-0342-484f-8998-971b0ec09e4c)
+- Added new Toggle Buttons, see below:
+
+![image](https://github.com/user-attachments/assets/74c0f5d3-cfb1-462f-b638-7460b6dc86b3)
+
